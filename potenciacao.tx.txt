@@ -1,2 +1,2 @@
 Este branch é responsavel pela operação de potenciação. 
-A potenciação é a multiplicação de um número por ele mesmo..
+A potenciação é a multiplicação de um número por ele mesmo. 
