@@ -1,0 +1,3 @@
+Operação soma
+
+A operação soma realiza a soma de dois elementos.
