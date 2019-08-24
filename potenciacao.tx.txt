@@ -1,2 +1,3 @@
 Este branch é responsavel pela operação de potenciação. 
 A potenciação é a multiplicação de um número por ele mesmo. 
+Esta é a 5 operação da calculadora. 
