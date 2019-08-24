@@ -1,2 +1,5 @@
 ATENÇÃO DESCREVA ABAIXO A SUA OPERAÇÃO
 Estou fazendo a operacao de multiplicacao
+Estou realizando a operação de potenciação. 
+
+Alteração para criar conflito!
