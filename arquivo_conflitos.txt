@@ -2,3 +2,5 @@ ATENÇÃO DESCREVA ABAIXO A SUA OPERAÇÃO
 Estou realizando a operação de potenciação. 
 
 Alteração para criar conflito!
+
+Estou realizando a operacao subtracao!
