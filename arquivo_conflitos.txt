@@ -3,3 +3,5 @@ Estou fazendo a operacao de multiplicacao
 Estou realizando a operação de potenciação. 
 
 Alteração para criar conflito!
+
+Estou realizando a operacao subtracao!
