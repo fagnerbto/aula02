@@ -5,3 +5,9 @@ de um povo heróico
 um brado retumbante
 e o sol da liberdade em raios fulgidos
 brilhou no céu da pátria neste instante.
+Estou fazendo a operacao de multiplicacao
+Estou realizando a operação de potenciação. 
+
+Alteração para criar conflito!
+
+Estou realizando a operacao subtracao!
